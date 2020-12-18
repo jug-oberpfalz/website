@@ -5,7 +5,7 @@ layout: home
 
 <div style="box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px 0px; padding: 16px; margin-bottom: 1vh">
     <h1 style="margin-bottom: 0px; font-size: 2.5rem">Java User Group - Oberpfalz</h1>
-    <img src{{ 'assets/jug-banner.png' | relative_url }}" style="float: right; max-height: 200px;">
+    <img src="{{ 'assets/jug-banner.png' | relative_url }}" style="float: right; max-height: 200px;">
     <h2>Worum es bei uns geht</h2>
 
     <p>Die JUG (Java User Group) Oberpfalz ist eine offene Community mit dem Ziel sich über aktuelle Themen zur Anwendung von Java Technologie auszutauschen.</p>
